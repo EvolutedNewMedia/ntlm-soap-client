@@ -1,5 +1,5 @@
 {
-    "name": "PeaceWorksTechnologySolutions/ntlm-soap-client",
+    "name": "peaceworkstechnologysolutions/ntlm-soap-client",
     "type": "library",
     "description": "PHP WDSL/Soap Client with NTLM Authentication for Microsoft Dynamics NAT Server.",
     "keywords": [
